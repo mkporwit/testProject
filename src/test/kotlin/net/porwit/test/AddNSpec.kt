@@ -1,6 +1,5 @@
 package net.porwit.test
 
-import net.porwit.test.AddN
 import org.amshove.kluent.`should equal`
 import org.jetbrains.spek.api.Spek
 import org.jetbrains.spek.api.dsl.given
